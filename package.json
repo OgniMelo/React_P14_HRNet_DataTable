@@ -1,6 +1,5 @@
 {
-	"name": "datatable",
-	"private": true,
+	"name": "@ognimelo/hrnet-datatable",
 	"version": "0.0.0",
 	"type": "module",
 	"dependencies": {
@@ -10,6 +9,21 @@
 		"@types/react": "^18.0.27",
 		"sass": "^1.58.3",
 		"typescript": "^4.9.3"
-	}
+	},
+	"description": "DataTable component for OpenClassrooms React 14th project",
+	"main": "src/index.tsx",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/OgniMelo/React_P14_HRNet_DataTable.git"
+	},
+	"author": "OgniMelo",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/OgniMelo/React_P14_HRNet_DataTable/issues"
+	},
+	"homepage": "https://github.com/OgniMelo/React_P14_HRNet_DataTable#readme"
 }
 
