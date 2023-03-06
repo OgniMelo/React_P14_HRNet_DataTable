@@ -19,6 +19,11 @@
 		"type": "git",
 		"url": "git+https://github.com/OgniMelo/React_P14_HRNet_DataTable.git"
 	},
+	"keywords": [
+		"table",
+		"react",
+		"typescript"
+	],
 	"author": "OgniMelo",
 	"license": "ISC",
 	"bugs": {
